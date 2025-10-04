@@ -1,1 +1,5 @@
+# VS Code ignores
 .vscode
+
+# Shader ignores
+*.spv
